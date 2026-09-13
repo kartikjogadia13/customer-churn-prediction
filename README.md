@@ -29,12 +29,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-To open the simple interface:
-
-```powershell
-streamlit run streamlit_app.py
-```
-
 ## Dataset note
 
 The included CSV is a small practice dataset created for demonstration. For a larger version of this project, replace it with a public telecom churn dataset while keeping the same column names.
